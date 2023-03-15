@@ -6,3 +6,8 @@ Você recebera três valores inteiros que representam o custo de fábrica, as po
 
 ** Saída **
 Como saída, teremos o valor final do preço de um carro novo.
+
+** Exemplos **
+Custo Fábrica | % Distrib | Custo Distrib | % Impostos | Vlr Impostos |    TOTAL     |
+R$ 20.000,00  |    28%	  |  R$ 5.600,00  |    45%	   | R$ 9.000,00  | R$ 34.600,00 | 
+R$ 30.000,00  |    10%    |  R$ 3.000,00  |    10%     | R$ 3.000,00  | R$ 36.000,00 |
