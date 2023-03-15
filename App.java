@@ -23,7 +23,7 @@ public class App {
         valorImpostos = (custoFabrica * percentualImpostos) / 100;
         custoConsumidor = custoFabrica + custoDistribuidor + valorImpostos;
       
-        System.out.println("O custo final para o cliente será de: " + custoConsumidor);
+        System.out.println("O custo final para o cliente será de: R$ " + custoConsumidor);
 
         scan.close();
 
